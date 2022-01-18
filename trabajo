@@ -1,0 +1,40 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "BATMAN",
+      "age" : 29,
+      "secretIdentity" : "MURCIELAGO",
+      "powers" : [
+        "VOLAR",
+        "VELOCIDAD",
+        "FUERZA"
+      ]
+    },
+    {
+      "name" : "WONDER WOMAN",
+      "age" : 39,
+      "secretIdentity" : "MUJER MARAVILLA",
+      "powers" : [
+        "FUERZA",
+        "RAPIDEZA",
+        "ENTUSIASTA"
+      ]
+    },
+    {
+      "name" : "CAT WOMAN",
+      "age" : 1000000,
+      "secretIdentity" : "BATICHICA",
+      "powers" : [
+        "FUERZA",
+        "VELOCIDAD",
+        "InTELIGENCIA",
+
+      ]
+    }
+  ]
+}
