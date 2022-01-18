@@ -1,0 +1,39 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super City",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "WONDER WOMAN",
+      "age" : 29,
+      "secretIdentity" : "Mujer maravilla",
+      "powers" : [
+        "Fueza",
+        "Inteligencia",
+        "Velocidad"
+      ]
+    },
+    {
+      "name" : "Spiderman",
+      "age" : 39,
+      "secretIdentity" : "Hombre Araña",
+      "powers" : [
+        "Trepar paredes",
+        "Rescatar gente",
+        "Velocidad"
+      ]
+    },
+    {
+      "name" : "Superman",
+      "age" : 1000000,
+      "secretIdentity" : "Super",
+      "powers" : [
+        "Fuerza",
+        "Velocidad",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
